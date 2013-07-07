@@ -1,6 +1,8 @@
 Boxr
 ========
 
+Note: This app is nowhere near a release candidate just yet, it's not even at a demo version (though almost).
+
 This app reads, renders and displays the Boxz Technology under a given navigational perspective.
 
 Specification:
